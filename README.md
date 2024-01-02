@@ -34,15 +34,6 @@ Destacamos alguns dos projetos desenvolvidos durante este módulo:
 
 4. **Projeto 4**: [CONVERSOR DE TEMPERATURA](desafio-04/index-04.html)
    - Crie uma página com 3 inputs, um para cada tipo de temperatura (Celsius, Fahrenheit e Kelvin). Ao digitar em um input você deve converter a temperatura para os demais campos. Por exemplo: Se eu digitar no campo de Kelvin, o campo de Celsius deve mostrar a conversão deste número Kelvin para Celsius e o campo de Fahrenheit deve mostrar a conversão de Kelvin para Fahrenheit;
-  
-## Como Usar
-
-Siga as instruções abaixo para executar e explorar os projetos:
-
-1. Faça o checkout do branch correspondente ao projeto desejado.
-2. Abra o projeto em sua IDE preferida.
-3. Instale as dependências necessárias (se houver) usando os comandos específicos.
-4. Execute os projetos seguindo as instruções fornecidas nos respectivos READMEs.
 
 ### 🕵️ Sinta-se à vontade para explorar os projetos e fornecer feedback. Obrigado por visitar!
 
@@ -69,7 +60,8 @@ git clone https://github.com/alfecjo/Java-II.git
 ```
 ## Uso
 
-1. Execute em sua IDE de preferência. Contudo, o desenvolvimento foi feito no VSCode!
+1. Faça o checkout do branch correspondente ao projeto desejado.
+2. Execute os projetos direto no navegador.
 
 ## Contribuição
 
