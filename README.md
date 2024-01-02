@@ -2,7 +2,7 @@
 
 ## ✨ Descrição
 
-👉 O material aqui apresentado foi criado como parte da avaliação final do módulo, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. Durante o bootcamp, exploramos profundamente os seguintes conceitos:
+### 👉 O material aqui apresentado foi criado como parte da avaliação final do módulo, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 
 ### 👨‍💻 HTML
 - Estruturação de documentos HTML5
@@ -35,9 +35,9 @@ Destacamos alguns dos projetos desenvolvidos durante este módulo:
 4. **Projeto 4**: [CONVERSOR DE TEMPERATURA](desafio-04/index-04.html)
    - Crie uma página com 3 inputs, um para cada tipo de temperatura (Celsius, Fahrenheit e Kelvin). Ao digitar em um input você deve converter a temperatura para os demais campos. Por exemplo: Se eu digitar no campo de Kelvin, o campo de Celsius deve mostrar a conversão deste número Kelvin para Celsius e o campo de Fahrenheit deve mostrar a conversão de Kelvin para Fahrenheit;
 
-### 🕵️ Sinta-se à vontade para explorar os projetos e fornecer feedback. Obrigado por visitar!
+### 🕵️ Sinta-se à vontade para explorar os projetos e fornecer feedback.
 
-🎉 Os projetos, são exercícios solicitados ao longo do curso que juntos compõem a média final.
+### 🎉 Os projetos, são exercícios solicitados ao longo do curso que juntos compõem o índice de aproveitamento.
 
 # Tecnologia utilizada:
 
@@ -56,7 +56,7 @@ Destacamos alguns dos projetos desenvolvidos durante este módulo:
 1. Clone o repositório ou baixe o arquivo .zip:
 
 ```bash
-git clone https://github.com/alfecjo/Java-II.git
+git clone https://github.com/alfecjo/bootcamp-santander-soulcode-universia.git
 ```
 ## Uso
 
