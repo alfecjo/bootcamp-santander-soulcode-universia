@@ -21,7 +21,7 @@
 
 ## 🚀 Projetos Destacados
 
-Destacamos alguns dos projetos desenvolvidos durante este módulo:
+✔️ Destacamos alguns dos projetos desenvolvidos durante este módulo:
 
 1. **Projeto 1**: [CONTADOR DE CLIQUES](desafio-01/index-01.html)
    - Crie uma página que apresente um botão que toda vez que é clicado atualizará na mesma tela a quantidade de cliques. Conforme a faixa de valores a estilização do contador deve mudar: até 100 usa-se cor verde, de 101 a 150 amarelo e de 151 acima vermelho.
