@@ -2,19 +2,19 @@
 
 ## ✨ Descrição
 
-### 👉 O material aqui apresentado foi criado como parte da avaliação final do módulo, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. Durante o bootcamp, exploramos profundamente os seguintes conceitos:
+### 👉 O material aqui apresentado foi criado para avaliar o aproveitamento do módulo HTML, CSS e JavaScript, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. 
 
-### 👨‍💻 HTML
+### 👨‍💻 HTML - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Estruturação de documentos HTML5
 - Uso de tags semânticas para melhorar a acessibilidade e SEO
 - Incorporação de formulários interativos
 
-### 👨‍💻 CSS
+### 👨‍💻 CSS - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Estilização de páginas usando seletores e propriedades CSS
 - Responsividade e layout flexível com Flexbox e Grid
 - Aplicação de animações e transições para melhorar a experiência do usuário
 
-### 👨‍💻 JavaScript
+### 👨‍💻 JavaScript - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Manipulação do DOM para interatividade dinâmica
 - Utilização de eventos para responder a ações do usuário
 - Comunicação assíncrona com APIs para carregamento dinâmico de dados
