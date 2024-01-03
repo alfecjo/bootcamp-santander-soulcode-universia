@@ -61,7 +61,7 @@ git clone https://github.com/alfecjo/bootcamp-santander-soulcode-universia.git
 ## Uso
 
 1. Faça o checkout do branch correspondente ao projeto desejado.
-2. Execute os projetos direto no navegador.
+2. Execute-o direto no navegador.
 
 ## Contribuição
 
