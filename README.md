@@ -2,7 +2,7 @@
 
 ## ✨ Descrição
 
-### 👉 O material aqui apresentado foi criado para avaliar o aproveitamento do módulo HTML, CSS e JavaScript, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. 
+### 👉 O material aqui apresentado foi solicitado, como forma de avaliar o aproveitamento do módulo HTML, CSS e JavaScript, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. 
 
 ### 👨‍💻 HTML - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Estruturação de documentos HTML5
