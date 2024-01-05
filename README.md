@@ -39,6 +39,10 @@
 
 ### 🎉 Os projetos, são exercícios solicitados ao longo do curso que juntos compõem o índice de aproveitamento.
 
+### 📽️ Click na imagem e assista ao vídeo de apresentação do Projeto..     
+
+[![Assista ao Vídeo de Apresentação dos Testes](https://img.youtube.com/vi/Xm-1FmxwFXU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xm-1FmxwFXU)
+
 # Tecnologia utilizada:
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
