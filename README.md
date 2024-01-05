@@ -17,7 +17,6 @@
 ### 👨‍💻 JavaScript - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Manipulação do DOM para interatividade dinâmica
 - Utilização de eventos para responder a ações do usuário
-- Comunicação assíncrona com APIs para carregamento dinâmico de dados
 
 ## 🚀 Projetos Destacados
 
