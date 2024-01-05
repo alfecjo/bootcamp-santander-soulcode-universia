@@ -18,15 +18,20 @@
     #slider {
       max-width: 600px;
       overflow: hidden;
+      position: relative;
     }
 
     #imageContainer {
       display: flex;
+      width: 100%; /* Alterado para 100% */
       transition: transform 0.5s ease;
     }
 
     .slide-container {
       flex: 0 0 100%;
+      display: flex; /* Adicionado */
+      justify-content: center; /* Adicionado */
+      align-items: center; /* Adicionado */
     }
 
     .slide {
@@ -38,6 +43,17 @@
     #prevBtn, #nextBtn {
       font-size: 24px;
       cursor: pointer;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    #prevBtn {
+      left: 10px;
+    }
+
+    #nextBtn {
+      right: 10px;
     }
   </style>
 </head>
@@ -51,10 +67,10 @@
       <div class="slide-container"><img class="slide" src="image5.jpg" alt="Imagem 5"></div>
       <div class="slide-container"><img class="slide" src="image6.jpg" alt="Imagem 6"></div>
     </div>
+    
+    <button id="prevBtn" onclick="changeSlide(-1)">&lt;</button>
+    <button id="nextBtn" onclick="changeSlide(1)">&gt;</button>
   </div>
-
-  <button id="prevBtn" onclick="changeSlide(-1)"></button>
-  <button id="nextBtn" onclick="changeSlide(1)"></button>
 
   <script>
     let currentSlide = 0;
