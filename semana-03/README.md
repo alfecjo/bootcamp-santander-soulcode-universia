@@ -1,8 +1,8 @@
-# ☕ Bootcamp Santander SoulCode Universia - Módulo HTML CSS JavaScript
+# 🏆 Bootcamp Santander SoulCode Universia - Módulo HTML CSS JavaScript
 
 ## ✨ Descrição
 
-### 👉 O material aqui apresentado foi criado para avaliar o aproveitamento do módulo HTML, CSS e JavaScript, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. 
+### 👉 O material aqui apresentado foi solicitado, como forma de avaliar o aproveitamento do módulo HTML, CSS e JavaScript, cobrindo uma variedade de tópicos essenciais para o desenvolvimento web. 
 
 ### 👨‍💻 HTML - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Estruturação de documentos HTML5
@@ -17,7 +17,6 @@
 ### 👨‍💻 JavaScript - Durante o bootcamp, exploramos profundamente os seguintes conceitos:
 - Manipulação do DOM para interatividade dinâmica
 - Utilização de eventos para responder a ações do usuário
-- Comunicação assíncrona com APIs para carregamento dinâmico de dados
 
 ## 🚀 Projetos Destacados
 
@@ -38,6 +37,10 @@
 ### 🕵️ Sinta-se à vontade para explorar os projetos e fornecer feedback.
 
 ### 🎉 Os projetos, são exercícios solicitados ao longo do curso que juntos compõem o índice de aproveitamento.
+
+### 📽️ Click na imagem e assista ao vídeo de apresentação do Projeto..     
+
+[![Assista ao Vídeo de Apresentação dos Testes](https://img.youtube.com/vi/tsS4Mz_3ZKA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tsS4Mz_3ZKA)
 
 # Tecnologia utilizada:
 
