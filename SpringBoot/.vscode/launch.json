@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SingApplication<sing>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.singular.sing.SingApplication",
+            "projectName": "sing",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
